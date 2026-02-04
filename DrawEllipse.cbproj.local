@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2026.02.04 16:13:19.813,=C:\Users\PC\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2026.02.04 16:13:19.920,=C:\Users\PC\Documents\Embarcadero\Studio\Projects\File1.c</Transaction>
+    <Transaction>2026.02.04 16:15:23.898,D:\Projects\Programming\C\BDS\GUI\WindowBased\Graphics\DrawEllipse\DrawEllipsePCH1.h=C:\Users\PC\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2026.02.04 16:15:23.915,D:\Projects\Programming\C\BDS\GUI\WindowBased\Graphics\DrawEllipse\File1.c=C:\Users\PC\Documents\Embarcadero\Studio\Projects\File1.c</Transaction>
+    <Transaction>2026.02.04 16:15:23.927,D:\Projects\Programming\C\BDS\GUI\WindowBased\Graphics\DrawEllipse\DrawEllipse.cbproj=C:\Users\PC\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>2026.02.04 16:15:37.119,D:\Projects\Programming\C\BDS\GUI\WindowBased\Graphics\DrawEllipse\DrawEllipse.c=D:\Projects\Programming\C\BDS\GUI\WindowBased\Graphics\DrawEllipse\File1.c</Transaction>
+    <Transaction>2026.02.04 16:15:40.720,D:\Projects\Programming\C\BDS\GUI\WindowBased\Graphics\DrawEllipse\DrawEllipse.cbproj=D:\Projects\Programming\C\BDS\GUI\WindowBased\Graphics\DrawEllipse\DrawEllipse.cbproj</Transaction>
+    <Transaction>2026.02.04 16:20:58.849,=D:\Projects\Programming\C\BDS\GUI\WindowBased\Graphics\DrawEllipse\DrawEllipse.rc</Transaction>
+    <Transaction>2026.02.04 16:21:31.029,=D:\Projects\Programming\C\BDS\GUI\WindowBased\Graphics\DrawEllipse\DrawEllipse.h</Transaction>
+    <Transaction>2026.02.04 16:21:31.051,=D:\Projects\Programming\C\BDS\GUI\WindowBased\Graphics\DrawEllipse\framework.h</Transaction>
+    <Transaction>2026.02.04 16:21:31.093,=D:\Projects\Programming\C\BDS\GUI\WindowBased\Graphics\DrawEllipse\Resource.h</Transaction>
+    <Transaction>2026.02.04 16:21:31.125,=D:\Projects\Programming\C\BDS\GUI\WindowBased\Graphics\DrawEllipse\targetver.h</Transaction>
+  </Transactions>
+</BorlandProject>
